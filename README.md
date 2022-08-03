@@ -8,6 +8,7 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 | 2     | [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)          |
 | 3     | [FreeCodeCamp Data Analysis](https://www.youtube.com/watch?v=r-uOLxNrNk8) |
 | 4     | [FreeCodeCamp Tableau](https://www.youtube.com/watch?v=TPMlZxRRaBQ)       |
+| 5     | [Tableau eLearning](https://elearning.tableau.com/)                       |
 
 > **Day 1 of 66DaysOfData**
 
@@ -17,3 +18,15 @@ Sharing my journey of #66DaysOfData on learning data analytics!
   - [Kaggle Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 
 ![Image](./images/day1.png)
+
+> **Day 2 of 66DaysOfData**
+
+- **SQL**: Learned how to use `WITH...AS`, `LIKE`, and `JOIN` functions.
+- **Tableau**: Experimented with the application. Still working on to do the Explanatory Data Analysis (EDA) on Google Colab because I have prior experience with it.
+- Resources:
+  - [Kaggle Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+  -
+
+![Image](./images/day2-1.png)
+![Image](./images/day2-2.png)
+![Image](./images/day2-3.png)
