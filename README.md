@@ -25,8 +25,15 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 - **Tableau**: Experimented with the application. Still working on to do the Explanatory Data Analysis (EDA) on Google Colab because I have prior experience with it.
 - Resources:
   - [Kaggle Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
-  -
 
 ![Image](./images/day2-1.png)
 ![Image](./images/day2-2.png)
 ![Image](./images/day2-3.png)
+
+> **Day 3 of 66DaysOfData**
+
+- **SQL**: Learned how to use different types of `JOIN` functions and `UNION`. Both are quite similar in terms of usage, however the `JOIN` functions combine tables while `UNION` function combines queries.
+- Resources:
+  - [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+
+![Image](./images/day3.png)
