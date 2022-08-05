@@ -37,3 +37,11 @@ Sharing my journey of #66DaysOfData on learning data analytics!
   - [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 
 ![Image](./images/day3.png)
+
+> **Day 4 of 66DaysOfData**
+
+- **SQL**: Learned how to use SQL analytics functions such as `AVG`, `SUM`, `MAX`, and `MIN` with the help of the `OVER` function. There are more analytical navigation functions such as `LAG` and `LEAD` that will correspond to the before or after the entry within the table. There was also the `RANK` functions that gives a ranking to the table.
+- Resources:
+  - [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+
+![Image](./images/day4.png)
