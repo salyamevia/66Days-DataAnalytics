@@ -64,3 +64,12 @@ Sharing my journey of #66DaysOfData on learning data analytics!
   - [Tableau eLearning](https://elearning.tableau.com/)
 
 ![Image](./images/day5.png)
+
+> **Day 6 of 66DaysOfData**
+
+- **SQL**: Learned about REPEATED values and RECORD types in SQL schemas. Also, understanding how to extracted them with the `UNNEST` command. Ended the study with learning how to write efficient queries. Several ways to do this includes to filter the important fields before doing a join and to not use a 1:1 join.
+- Resources:
+
+  - [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+
+  ![Image](./images/day6.png)
