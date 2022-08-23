@@ -73,3 +73,21 @@ Sharing my journey of #66DaysOfData on learning data analytics!
   - [Kaggle Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 
   ![Image](./images/day6.png)
+
+  > **Brief Break**
+
+  I did a little break from this challenge, however during the time I learned how to use **Google Data Studio**. This is the first visualization I have made! _p.s. I am quite happy with it._
+
+  ![Image](./images/gds.png)
+  _This is just a preview and not the full viz._
+
+  [Visualization Link](https://datastudio.google.com/reporting/062c342c-52ab-4c3d-b4a2-d1170fbe93bd)
+
+> **Day 7 of 66DaysOfData**
+
+- **Variable types** are split between <ins>qualitative</ins> and <ins>quantitative</ins>. Qualitative types are divided into two groups based on if they can be ranked or not, nominal (cannot be ranked) and ordinal (can be ranked) types. Examples of a nominal value is the names of a fruit while an ordinal value are the options for customer satisfaction survey (amusing or disappointing).
+
+When creation the visualization for these types, we can aggregate quantitative values (such as with average or sum).
+
+- Resources:
+  - [Tableau eLearning](https://elearning.tableau.com/)
