@@ -91,3 +91,12 @@ When creation the visualization for these types, we can aggregate quantitative v
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
+
+> **Day 8 of 66DaysOfData**
+
+- **Aggregation** is a process of grouping data together. There are various ways to aggregate data, such as using the `average` or `mean`, `sum`, `median`, `count`, and even `maximum` or `minimum` values. The motivation for aggreation is when we want to look at multiple values as a singular group. For example we have the data of life expentancy for each gender and we want to see the life expentancy in general. To achieve this, we can aggregate the values.
+
+- **Granularity** measures how detailed is the data. For example, aggregated data have a low granularity and vice versa. One of the motivation for having a high granularity is to better predict the correlation between features.
+
+- Resources:
+  - [Tableau eLearning](https://elearning.tableau.com/)
