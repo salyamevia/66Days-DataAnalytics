@@ -87,7 +87,7 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 
 - **Variable types** are split between <ins>qualitative</ins> and <ins>quantitative</ins>. Qualitative types are divided into two groups based on if they can be ranked or not, nominal (cannot be ranked) and ordinal (can be ranked) types. Examples of a nominal value is the names of a fruit while an ordinal value are the options for customer satisfaction survey (amusing or disappointing).
 
-When creation the visualization for these types, we can aggregate quantitative values (such as with average or sum).
+  When creation the visualization for these types, we can aggregate quantitative values (such as with average or sum).
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
@@ -97,6 +97,18 @@ When creation the visualization for these types, we can aggregate quantitative v
 - **Aggregation** is a process of grouping data together. There are various ways to aggregate data, such as using the `average` or `mean`, `sum`, `median`, `count`, and even `maximum` or `minimum` values. The motivation for aggreation is when we want to look at multiple values as a singular group. For example we have the data of life expentancy for each gender and we want to see the life expentancy in general. To achieve this, we can aggregate the values.
 
 - **Granularity** measures how detailed is the data. For example, aggregated data have a low granularity and vice versa. One of the motivation for having a high granularity is to better predict the correlation between features.
+
+- Resources:
+
+  - [Tableau eLearning](https://elearning.tableau.com/)
+
+  > **Day 9 of 66DaysOfData**
+
+  - **Distributions** can be represented with visualizations. In doing so we need to divide it by the variable type, discrete or continuous values.
+
+    Discrete values can be represented with a frequency and proportion table. Frequency is measuring the total amount of the category item, while proportion is measuring the amount of that category item to the total item count.
+
+    Continuous values can be represented with histograms and box plots. With histograms, it uses bins to create a "range" within the values. While box plots uses percentiles to see the distribution and finding outliers.
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
