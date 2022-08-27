@@ -99,16 +99,24 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 - **Granularity** measures how detailed is the data. For example, aggregated data have a low granularity and vice versa. One of the motivation for having a high granularity is to better predict the correlation between features.
 
 - Resources:
-
   - [Tableau eLearning](https://elearning.tableau.com/)
 
-  > **Day 9 of 66DaysOfData**
+> **Day 9 of 66DaysOfData**
 
-  - **Distributions** can be represented with visualizations. In doing so we need to divide it by the variable type, discrete or continuous values.
+- **Distributions** can be represented with visualizations. In doing so we need to divide it by the variable type, discrete or continuous values.
 
-    Discrete values can be represented with a frequency and proportion table. Frequency is measuring the total amount of the category item, while proportion is measuring the amount of that category item to the total item count.
+  Discrete values can be represented with a frequency and proportion table. Frequency is measuring the total amount of the category item, while proportion is measuring the amount of that category item to the total item count.
 
-    Continuous values can be represented with histograms and box plots. With histograms, it uses bins to create a "range" within the values. While box plots uses percentiles to see the distribution and finding outliers.
+  Continuous values can be represented with histograms and box plots. With histograms, it uses bins to create a "range" within the values. While box plots uses percentiles to see the distribution and finding outliers.
+
+- Resources:
+  - [Tableau eLearning](https://elearning.tableau.com/)
+
+> **Day 10 of 66DaysOfData**
+
+- **Variance** measures the spread of the data. While **standard deviation** is the square root of variance and measures the dispertion of the spread.
+- We can use a **density curve** to check the continous distribution or to check _all_ possibble values. There's a special curve named the **normal distribution** that usually closely approximates the natural phenomenon. We can use the normal distribution to calculate the probability of something happening in real world. To add to this, we can use the **confidence of interval** to calculate the margin of error (e.g. how likely it is that out probability will happen?)
+- **Hypothesis testing** is when we want to statistically test if our hypothesis is true or not. We start with a <ins>null heyphothesis</ins> and <ins>alternative hypothesis</ins>. To determine which one is "correct", we can set a threshold with the **p-value**. However, there are many researches that have stated p-values can be manipulated or "hacked" to receive a certain hypothesis.
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
