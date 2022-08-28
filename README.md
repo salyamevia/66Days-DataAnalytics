@@ -120,3 +120,12 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
+
+> **Day 11 of 66DaysOfData**
+
+- **Correlation** are a way to calculate the relationship between two variables. This is usually done visually by a scatter plot or statistically with Pearson's correlation. However, correlation does not answer the how or why (causation). To make this value meaningful, we need to ensure that it uses quantitative values, a linear model, and there are no outliers in the data.
+
+- **Regression** is a way to predict values by using a linear model (predicts Y value from X).
+
+- Resources:
+  - [Tableau eLearning](https://elearning.tableau.com/)
