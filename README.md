@@ -129,3 +129,11 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
+
+> **Day 12 of 66DaysOfData**
+
+- Tableau accepts datasets from various sources such as spreadsheet files, relational databases, cloud storages, statistical tables (e.g. R generated files), and many others.
+- In Tableau, **Dimensions** are qualitative variables while **Measures** are quantitative variables.
+
+- Resources:
+  - [Tableau eLearning](https://elearning.tableau.com/)
