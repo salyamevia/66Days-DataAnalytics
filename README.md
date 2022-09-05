@@ -137,3 +137,37 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
+
+> **Day 13 of 66DaysOfData**
+
+- The advantage of using visualizations for conveying information is that human mind tends to focus on pre-attentive visual cues. For example:
+
+  - Line height (Great for quantitative data)
+  - Line width (Limited use for qualitative data)
+  - Shape, using different shapes for each data type (Great for qualitative data)
+  - Colors, using different colors for each data type (Great for qualitative data)
+  - Transparency (Limited use for qualitative data)
+  - Position, e.g. higher values would have higher positions (Great for quantitative data)
+  - Size (Great for qualitative data)
+
+  And many others.
+
+- When reading charts, we need to ask questions to fully understand the chart such as what does it represent, what patterns can we see, is that all of the information, and so on.
+
+  After that, we also need to be wary of misleading visualziations such as charts without zero (in the quantitative axis), using the wrong type of chart (using line chart to represent categorical data instead of a bar chart), confusing color scheme (using darker colors to represent lower density when the focus is the higher density values), and so on.
+
+- There are different types of charts:
+
+  - Line chart, used to view trends over a period of time
+  - Bar chart, used to view categorical data
+  - Heatmap, used to view relationships between two factors
+  - Highlight chart, gives details to heatmaps
+  - Histogram, used to view distribution of the data
+  - Box chart, used to view distribution of a section from the data
+  - Scatterplot, used to view relationships between two quantitative values
+  - Treemap, used to view the percentage compared to all
+
+  And many others.
+
+- Resources:
+  - [Tableau eLearning](https://elearning.tableau.com/)
