@@ -171,3 +171,10 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
+
+> **Day14 of 66DaysOfData**
+
+- The general workflow in Tableau are connect to the data source, analyze the data, and share. These processes can be more iterative rather than linear. In Tableau, we can connect to a local file, data server, and others.
+
+- Resources:
+  - [Tableau eLearning](https://elearning.tableau.com/)
