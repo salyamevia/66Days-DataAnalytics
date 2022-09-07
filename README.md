@@ -172,9 +172,17 @@ Sharing my journey of #66DaysOfData on learning data analytics!
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
 
-> **Day14 of 66DaysOfData**
+> **Day 14 of 66DaysOfData**
 
 - The general workflow in Tableau are connect to the data source, analyze the data, and share. These processes can be more iterative rather than linear. In Tableau, we can connect to a local file, data server, and others.
+
+- Resources:
+  - [Tableau eLearning](https://elearning.tableau.com/)
+
+> **Day 15 of 66DaysOfData**
+
+- Data preparation is a key process to be done before the analysis to allow Analysts find more precise insights faster. This stage includes manipulating the data by shaping, filtering, and others.
+- Side note: I have downloaded Tableau Prep Builder and will experiment with it tomorrow! Let's go!
 
 - Resources:
   - [Tableau eLearning](https://elearning.tableau.com/)
